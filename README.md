@@ -1,3 +1,3 @@
 # SportsReferenceWebScrapper
 
-I made these webscrappers to find the game averages of NFL and NBA players.
+The NFL webscrapper takes the year and outputs NFL averages
